@@ -1,5 +1,5 @@
 # react-relay-skeleton
-Skeleton app for prototyping with React + Relay + 
+Skeleton app for prototyping with react + relay + react-router-relay. The development environment uses webpack + webpack-dev-server + babel. To use follow next steps.
 
 ## install dependencies 
 ```sh
@@ -20,6 +20,7 @@ npm start
 and navigate to [http://localhost:8080/webpack-dev-server/](http://localhost:8080/webpack-dev-server/)
 
 ## update schema
+If you need to manually update the schema run
 ```sh
 npm run updateSchema
 ```
